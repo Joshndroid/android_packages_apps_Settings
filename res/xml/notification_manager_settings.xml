@@ -24,6 +24,12 @@
             android:title="@string/heads_up_notifications"
             android:fragment="com.android.settings.headsup.HeadsUpSettings" />
 
+    <!-- Halo -->
+    <PreferenceScreen
+            android:id="@+id/halo_settings"
+            android:title="@string/halo_settings_title"
+            android:fragment="com.android.settings.temasek.Halo" />
+
     <!-- Battery fully charged notification -->
     <com.android.settings.cyanogenmod.SystemSettingSwitchPreference
         android:key="battery_fully_charged_notification"
