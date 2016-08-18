@@ -5,7 +5,7 @@
     <!-- About phone screen, Temasek version -->
     <string name="temasek_version_title">Temasek unofficial version</string>
     <!-- Do NOT translate this -->
-    <string name="temasek_version_default">Build V10.9</string>
+    <string name="temasek_version_default">Build V11</string>
     <string name="android_version_title">Marshmallow</string>
     <string name="android_version_default">6.0.1 MOB30Z Release 61</string>
 
